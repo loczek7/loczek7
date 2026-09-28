@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FULLSTACK%20DEVELOPER-7aa2f7?style=for-the-badge&logoColor=1a1b27" alt="Fullstack Developer" />
   <img src="https://img.shields.io/badge/STUDENT-bb9af7?style=for-the-badge" alt="Student" />
-  <img src="https://komarev.com/ghpvc/?username=loczek7&color=7dcfff&style=for-the-badge&label=VISITS" alt="Profile Views" />
 </p>
 
 <p align="center">
