@@ -78,16 +78,20 @@ Specjalizuję się w nowoczesnych frontendach (React, Vue) i rozwijam się w kie
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=loczek7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loczek7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loczek7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 <br/>
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loczek7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=loczek7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=loczek7&style=for-the-badge&color=38BDF8&label=WY%C5%9AWIETLENIA+PROFILU" alt="Profile Views" />
 
 </div>
 
-> Statystyki obejmują tylko publiczne repozytoria mierzone przez GitHub; renderowanie potrwa chwilę przy pierwszym wczytaniu.
+> Jeśli karta "Top Languages" się nie wyświetla, to przeciążenie współdzielonej instancji `github-readme-stats.vercel.app` — patrz opis samodzielnego wdrożenia poniżej.
 
 <br/>
 
