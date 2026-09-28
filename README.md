@@ -108,7 +108,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/loczek7/loczek7/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+<img src="https://raw.githubusercontent.com/loczek7/loczek7/output/language-pie.svg" alt="Repos per language" />
 
 </div>
 
