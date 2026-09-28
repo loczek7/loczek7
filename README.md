@@ -1,34 +1,53 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Hi%20there,%20I'm%20Marceli!&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=38BDF8&fontWeight=800" alt="Header banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FULLSTACK%20DEVELOPER-7aa2f7?style=for-the-badge&logoColor=1a1b27" alt="Fullstack Developer" />
+  <img src="https://img.shields.io/badge/STUDENT-bb9af7?style=for-the-badge" alt="Student" />
+  <img src="https://komarev.com/ghpvc/?username=loczek7&color=7dcfff&style=for-the-badge&label=VISITS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marceli-duraziński-55b871396/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:marceli.durazinski@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-f7768e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-# 👋 Cześć, jestem Marceli
+# 👨‍💻 Profile Overview
 
-### Fullstack & Front-end Developer
+## `Buduję pomost między nowoczesnym frontendem a solidnym zapleczem backendowym.`
 
-**React · Vue · Next.js · Nuxt.js · Node.js · Express · Supabase**
+### 🎓 Student Informatyki @ Uniwersytet WSB Merito w Gdańsku
 
-Specjalizuję się w nowoczesnych frontendach (React, Vue) i rozwijam się w kierunku backendu — Node.js, Express, Supabase. Buduję skalowalne aplikacje webowe skupione na czystym kodzie i wydajności.
+**Specjalność: Frontend Developer — 3. rok, w trakcie studiów**
+
+<br />
+
+|      🏗️ **Aktualny projekt**      |         🎯 **Główny fokus**         | 📍 **Lokalizacja** |
+| :-------------------------------: | :---------------------------------: | :----------------: |
+| **OTO OKO** _(praca inżynierska)_ | **Fullstack — React/Vue + Node.js** | **Gdynia, Polska** |
 
 </div>
 
-<br/>
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d1117" alt="Sass" />
+<div align="center">
 
-**Frameworki**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=0d1117" alt="React" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0d1117" alt="Vue.js" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js" /> <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=0d1117" alt="Nuxt.js" />
+|                                                  **Front-end**                                                   |                                               **Back-end**                                                |                                 **Narzędzia & Design**                                  |
+| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vuejs,nuxtjs" alt="Front-end stack" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,python" alt="Back-end stack" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" alt="Tools" /> |
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000&labelColor=0d1117" alt="Supabase" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="FastAPI" />
-
-**Narzędzia**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Vercel" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" alt="Figma" />
+</div>
 
 <br/>
 
@@ -78,20 +97,18 @@ Specjalizuję się w nowoczesnych frontendach (React, Vue) i rozwijam się w kie
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=loczek7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loczek7/loczek7/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/loczek7/loczek7/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loczek7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=loczek7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=loczek7&style=for-the-badge&color=38BDF8&label=WY%C5%9AWIETLENIA+PROFILU" alt="Profile Views" />
 
 </div>
 
-> Jeśli karta "Top Languages" się nie wyświetla, to przeciążenie współdzielonej instancji `github-readme-stats.vercel.app` — patrz opis samodzielnego wdrożenia poniżej.
+> Wąż powyżej pojawi się dopiero po włączeniu GitHub Action opisanej niżej — do tego czasu ten wiersz obrazków będzie pusty/zepsuty, to normalne.
 
 <br/>
 
