@@ -1,105 +1,123 @@
-### 👋 Hi there! I'm a Fullstack & Front-end Developer
-
-> I specialize in building modern frontends (React, Vue) and I'm expanding into backend development with Node.js, Express and Supabase. I build scalable web applications with a focus on clean code and performance.
-
----
-
-### 🛠 Tech Stack
-
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Role-Fullstack-2a9657?style=plastic&logo=stackoverflow&logoColor=white" alt="Fullstack" />
-  <img src="https://img.shields.io/badge/Role-Front--end_Developer-8a11ab?style=plastic&logo=html5&logoColor=white" alt="Frontend" />
+# 👋 Cześć, jestem Marceli
 
-  <br/>
-  <br/>
+### Fullstack & Front-end Developer
 
-  <img src="https://img.shields.io/badge/TypeScript-08a8bd?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-c8cf11?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-4ac4cf?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-db219d?style=plastic&logo=sass&logoColor=white" alt="SASS" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%7C+Vue+%7C+Next.js+%7C+Nuxt.js;Node.js+%7C+Express+%7C+Supabase;Buduj%C4%99+czysty%2C+wydajny+kod" alt="Typing SVG" />
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/React-20232a?style=plastic&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=plastic&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=plastic&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/REST_API-6e56cf?style=plastic&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Python-056fa1?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-229451?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+Specjalizuję się w nowoczesnych frontendach (React, Vue) i rozwijam się w kierunku backendu — Node.js, Express, Supabase. Buduję skalowalne aplikacje webowe skupione na czystym kodzie i wydajności.
 
 </div>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🛠 Tech Stack
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d1117" alt="Sass" />
+
+**Frameworki**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=0d1117" alt="React" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0d1117" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=0d1117" alt="Nuxt.js" />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000&labelColor=0d1117" alt="Supabase" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="FastAPI" />
+
+**Narzędzia**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" alt="Figma" />
+
+<br/>
+
+## 🚀 Wybrane projekty
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>🤖 AXEL</b><br/>
-      Lokalny, wieloagentowy asystent do pisania kodu — działa w całości na własnym sprzęcie, bez zewnętrznych API modeli.<br/><br/>
-      <sub><b>Stack:</b> TypeScript, Next.js, Node.js, PostgreSQL/pgvector, Docker, Ollama</sub><br/>
-      <a href="https://github.com/loczek7/AXEL">→ Repo</a>
+      <h3>🤖 AXEL</h3>
+      Lokalny, wieloagentowy asystent do pisania kodu — działa w całości na własnym sprzęcie, bez zewnętrznych API modeli.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="" />
+      <br/><br/>
+      <a href="https://github.com/loczek7/AXEL">🔗 Repozytorium</a>
     </td>
     <td width="33%" valign="top">
-      <b>👁️ OTO OKO</b><br/>
-      Aplikacja rezerwacyjna dla salonu optycznego — praca inżynierska, zespół 4-osobowy. Odpowiadam za backend: Supabase, REST API, powiadomienia.<br/><br/>
-      <sub><b>Stack:</b> Next.js, Supabase (PostgreSQL, Auth, RLS), TypeScript, Zod</sub><br/>
-      <a href="https://github.com/przemekbladowski/OtoOko">→ Repo</a> · <a href="https://oto-oko.vercel.app">→ Demo</a>
+      <h3>👁️ OTO OKO</h3>
+      Aplikacja rezerwacyjna dla salonu optycznego — praca inżynierska, zespół 4-osobowy. Odpowiadam za backend: Supabase, REST API, powiadomienia.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000" alt="" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/OtoOko">🔗 Repozytorium</a> · <a href="https://oto-oko.vercel.app">🌐 Demo</a>
     </td>
     <td width="33%" valign="top">
-      <b>📰 Wirtualna Polska</b><br/>
-      Odwzorowanie portalu informacyjnego — projekt zaliczeniowy. Odpowiadałem za funkcjonalność (widget pogody, wyszukiwarka) i część UI.<br/><br/>
-      <sub><b>Stack:</b> Nuxt.js 3, Vue 3, TypeScript, SCSS</sub><br/>
-      <a href="https://github.com/loczek7/Wirtualna_Polska">→ Repo</a>
+      <h3>📰 Wirtualna Polska</h3>
+      Odwzorowanie portalu informacyjnego — projekt zaliczeniowy. Odpowiadam za funkcjonalność (widget pogody, wyszukiwarka) i część UI.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="" />
+      <br/><br/>
+      <a href="https://github.com/loczek7/Wirtualna_Polska">🔗 Repozytorium</a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📊 Coding Stats
+## 📊 Statystyki
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loczek7&layout=donut&theme=radical&hide_border=true" alt="Top Langs" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=loczek7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loczek7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loczek7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
+> Statystyki obejmują tylko publiczne repozytoria mierzone przez GitHub; renderowanie potrwa chwilę przy pierwszym wczytaniu.
 
-### 📫 Contact Me
+<br/>
+
+## 📫 Kontakt
 
 <div align="center">
 
-  <a href="https://YOUR-PORTFOLIO-URL.COM">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-cf5417?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/marceli-duraziński-55b871396/">
-    <img src="https://img.shields.io/badge/LinkedIn-57d9de?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:marceli.durazinski@gmail.com">
-    <img src="https://img.shields.io/badge/Email-f2bf27?style=plastic&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://YOUR-PORTFOLIO-URL.COM">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/marceli-duraziński-55b871396/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+</a>
+<a href="mailto:marceli.durazinski@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
 
 </div>
