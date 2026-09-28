@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FULLSTACK%20DEVELOPER-7aa2f7?style=for-the-badge&logoColor=1a1b27" alt="Fullstack Developer" />
   <img src="https://img.shields.io/badge/STUDENT-bb9af7?style=for-the-badge" alt="Student" />
+  <img src="https://komarev.com/ghpvc/?username=loczek7&color=7dcfff&style=for-the-badge&label=VISITS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -105,9 +106,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=loczek7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
-> Wąż powyżej pojawi się dopiero po włączeniu GitHub Action opisanej niżej — do tego czasu ten wiersz obrazków będzie pusty/zepsuty, to normalne.
+<img src="https://raw.githubusercontent.com/loczek7/loczek7/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+
+</div>
 
 <br/>
 
